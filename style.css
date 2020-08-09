@@ -13,9 +13,11 @@ body a:hover{
 }
 
 footer{
-    text-align: center; 
-    margin-bottom: auto; 
-    margin-top: 100px; 
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0; 
+    margin: 0 unset;
     font-size: 8pt;
     font-family: sans-serif; 
     color: blanchedalmond; 
