@@ -153,3 +153,4 @@ function readOnceWithGet(userId) {
   });
   // [END rtdb_read_once_get]
 }
+
